@@ -32,6 +32,7 @@ const resolvers = {
     },
     //login user
     login: async (parent, { username, password }) => {
+      const user = await User.findOne({ username });
       if (!user) {
         throw new AuthenticationError("Invalid username or password");
       }
