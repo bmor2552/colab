@@ -13,6 +13,7 @@ We are in the beginning statges of creation, the link will update with each edit
 
 - Gunner W.
   LinkedIn: https://www.linkedin.com/in/gunther-wagoner/
+  
   Github: https://github.com/GunnySensei
 
 
