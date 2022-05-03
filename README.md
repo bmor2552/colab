@@ -1,5 +1,5 @@
 # Lets Colab !
-When growing your portfolio of work, I must include group projects. In the real world I will be on a team of professionals desiging, engineering, reserching, and launching products/projects. 
+When growing your portfolio, it is important to include group projects. In the real world you will be on a team of professionals desiging, engineering, reserching, and launching products/projects. 
 
 For this colaberation I have joined forces with Gunner W. to create a website as well as an Instagram for an upcoming aesthetician Segen T. Below you will find the link to the website design: 
 
@@ -12,10 +12,8 @@ We are in the beginning statges of creation, the link will update with each edit
 # Resources
 
 - Gunner W.
-  LinkedIn: 
-  Github:
+  LinkedIn: https://www.linkedin.com/in/gunther-wagoner/
+  Github: https://github.com/GunnySensei
 
 
-- Segen T.
-  LinkedIn:
-  Github:
+
