@@ -17,5 +17,8 @@ We are in the beginning statges of creation, the link will update with each edit
   
   Github: https://github.com/GunnySensei
 
+- Website Design Canva
+
+  Canva: https://www.canva.com
 
 
