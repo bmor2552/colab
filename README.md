@@ -9,6 +9,9 @@ Link: https://www.canva.com/design/DAE_aX6oqUQ/xO4oMgbvoRQ7j8iqShlCHg/watch?utm_
 
 We are in the beginning statges of creation, the link will update with each edit we make. 
 
+# About The Client 
+For this design the client wants a clean and straight foward website.
+
 # Resources
 
 - Gunner W.
