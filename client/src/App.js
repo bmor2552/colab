@@ -1,11 +1,11 @@
 import "./App.css";
-import Gallery from "./components/Gallery";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">ST Aesthetics</header>
-      <Gallery />
+      <Home />
     </div>
   );
 }
