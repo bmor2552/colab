@@ -69,6 +69,10 @@ html{
   text-align: center;
 }
 
+#about-us p{
+  
+}
+
 /*Credentials Section*/
 #credentials{
 display: flex;
@@ -98,9 +102,13 @@ text-align: center;
 }
 /*Footer*/
 
+h2{
+ text-align: center; 
+}
 #footer{
 display: flex;
-flex-direction: column;
+flex-direction: row;
+justify-content:space-around;
 text-align: center;
 font-size: 15px;
 color: Black;
