@@ -5,27 +5,114 @@
 *{
   margin: 0%;
   padding: 0%;
+  box-sizing: border-boxS;
 }
 
-/*Navbar*/
+/*Page Scroll*/
+html{
+  scroll-behavior: smooth;
+}
 
 /*Header*/
 #header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+}
 
+/*Navbar*/
+#navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#navbar ul{
+  display: flex;
+  list-style: none;
+  margin: 20px 0px;
+ 
+
+}
+
+#navbar ul li{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#navbar ul a {
+  text-decoration: none;
+  color:black;
+  padding: 8px 25px;
+  transition: all .5s ease;
+}
+
+#navbar ul li a:hover{
+  color: black;
+  text-decoration:underline;
+  border-bottom: 2px;
+  
+  
+}
+
+#massage-img{
+  width: 100%;
+ 
 }
 
 /*About Section*/
+#about{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 
 /*Credentials Section*/
+#credentials{
+display: flex;
+flex-direction: column;
+text-align: center;
+}
 
 /*Prices Section*/
+#price{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 
 /*Book Appointment Section*/
+#book-appointment{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 
 /*Cancellation Policy Section*/
-
+#policy{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 /*Footer*/
 
 #footer{
-
+display: flex;
+flex-direction: column;
+text-align: center;
+font-size: 15px;
+color: Black;
+padding: 20px;
 }
+
+#rights{
+display: flex;
+flex-direction: column;
+text-align: center;
+font-size: 13px;
+color: Black;
+padding: 30px;
+}
+
